@@ -32,6 +32,11 @@ source activate pynotes
 conda install xlrd # only use pip if desperate
 
 
+### additional modifications 
+see pip_requirements.txt and conda_env.snapshot for a current view ofthe dependencies (environment needs a retest)
+in conda_env.snapshot, any items designated <pip> were installed using pip inside the conda env
+
+
 # notebooks, pandas and inf resources
 http://pyinformatics.blogspot.co.za/2015/05/nested-heatmaps-in-pandas.html
 http://chrisalbon.com/python/pandas_normalize_column.html
