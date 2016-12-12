@@ -63,3 +63,6 @@ http://chrisalbon.com/python/pandas_normalize_column.html
 
 http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
 http://dataconomy.com/14-best-python-pandas-features/
+
+# Forked from
+https://bitbucket.org/rxncor/ml-notebooks/
